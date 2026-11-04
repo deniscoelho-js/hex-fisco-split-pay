@@ -68,4 +68,4 @@ Este projeto foi desenvolvido utilizando:
 ## 📂 Clone o repositório
 
 ```bash
-git clone git@github.com:deniscoelho-js/hex-pessoa-juridica.git
+git clone https://github.com/deniscoelho-js/hex-fisco-split-pay.git
